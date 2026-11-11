@@ -18,3 +18,7 @@ Travaux pratiques et projets universitaires du parcours Intégration Webdesign :
 - [TP 01 · La Fabrique de Thé](UX-UI/TP-01-Persona-et-parcours-utilisateur/README.md) — En cours.
 
 Figma contient les maquettes. Ce dépôt rassemble la documentation et les exports utiles.
+
+## CV
+
+[Voir les deux CV sur Figma — Front-End et Développement Web / Full Stack](https://www.figma.com/design/QTyOa5NwhrUOS5K9ILM387)
