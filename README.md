@@ -17,6 +17,7 @@ Travaux pratiques et projets universitaires du parcours Intégration Webdesign :
 ## Travaux pratiques
 
 - [TP 01 · La Fabrique de Thé](UX-UI/TP-01-Persona-Customer-Journey/README.md) — En cours.
+- [TP CMS · Site et e-boutique Salif Keïta](CMS/WordPress/README.md) — En cours.
 
 Figma contient les maquettes. Ce dépôt rassemble la documentation et les exports utiles.
 
